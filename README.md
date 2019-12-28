@@ -1,5 +1,3 @@
-# PluginLoaded
-
 ## Usage
 ```js
 var PluginLoaded = require("PluginLoaded");
