@@ -1,4 +1,4 @@
-## Usage
+# Usage
 ```js
 var PluginLoaded = require("PluginLoaded");
 PluginLoaded("Citizens", () => {
