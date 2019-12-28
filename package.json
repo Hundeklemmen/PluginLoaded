@@ -1,1 +1,1 @@
-{"name":"PluginLoaded","version":"1.0.0","description":"","main":"index.js","author":"Hundeklemmen","tags":[],"dependencies":[],"repository":{"type":"git","url":"https://github.com/Hundeklemmen/PluginLoaded"}}
+{"name":"PluginLoaded","version":"1.0.0","description":"Make sure a plugin is loaded before its api","main":"index.js","author":"Hundeklemmen","tags":[],"dependencies":[],"repository":{"type":"git","url":"https://github.com/Hundeklemmen/PluginLoaded"}}
